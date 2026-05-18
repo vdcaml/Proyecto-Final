@@ -49,10 +49,10 @@ streamlit run app.py
 ```
 
 ## 📸 Capturas de la aplicación
-### Pantalla principal
+### Módulo 1: Pantalla principal
 ![Home de la app](images/captura3.png)
 
-### Módulo de carga del dataset
+### Módulo 2: Carga del dataset
 ![Carga de dataset](images/captura4.png)
 
 ### Análisis de variables categóricas
