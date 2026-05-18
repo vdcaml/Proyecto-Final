@@ -53,13 +53,13 @@ streamlit run app.py
 [Home de la app](images/captura3.png)
 
 ### Módulo 2: Carga del dataset
-![Carga de dataset](images/captura4.png)
+[Carga de dataset](images/captura4.png)
 
 ### Análisis de variables categóricas
-![EDA categóricas](images/app_categoricas.png)
+[EDA categóricas](images/captura1.png)
 
 ### Hallazgos clave
-![Hallazgos clave](images/app_hallazgos.png)
+[Hallazgos clave](images/captura2.png)
 
 ---
 
