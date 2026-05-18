@@ -9,8 +9,6 @@
 
 Puedes acceder a la aplicación en el siguiente enlace:
 (https://proyecto-final-arturomloza.streamlit.app/)
-
-
 ---
 
 ## 📈 Descripción del Proyecto
