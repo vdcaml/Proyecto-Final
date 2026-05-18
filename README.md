@@ -8,7 +8,8 @@
 
 
 Puedes acceder a la aplicación en el siguiente enlace:
-(https://carlos-carrillo-well-trajectory-simulator.streamlit.app/)
+(https://proyecto-final-arturomloza.streamlit.app/)
+
 
 ---
 
@@ -47,24 +48,19 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 🗂️ Estructura de Archivos
+## 📸 Capturas de la aplicación
+### Pantalla principal
+![Home de la app](images/app_home.png)
 
-```bash
-WellTrajectorySimulator/
-│
-├── app.py               # Control principal de la aplicación.
-├── pozo_tipo_j.py        # Cálculos y visualización de pozos tipo J.
-├── pozo_tipo_s.py        # Cálculos y visualización de pozos tipo S.
-├── pozo_vertical.py      # Cálculos y visualización de pozos verticales.
-├── Diagramas y gráficos/
-│   ├── Diagrama pozo tipo J.png
-│   ├── Logo.png
-│   ├── Plataforma1.gif
-│   ├── Plataforma2.gif
-│   ├── Plataforma3.png
-├── requirements.txt      # Archivo con las dependencias del proyecto.
-├── README.md             # Archivo con la descripción del proyecto.
-```
+### Módulo de carga del dataset
+![Carga de dataset](images/app_dataset.png)
+
+### Análisis de variables categóricas
+![EDA categóricas](images/app_categoricas.png)
+
+### Hallazgos clave
+![Hallazgos clave](images/app_hallazgos.png)
 
 ---
+
 
