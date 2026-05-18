@@ -50,7 +50,7 @@ streamlit run app.py
 
 ## 📸 Capturas de la aplicación
 ### Módulo 1: Pantalla principal
-![Home de la app](images/captura3.png)
+[Home de la app](images/captura3.png)
 
 ### Módulo 2: Carga del dataset
 ![Carga de dataset](images/captura4.png)
